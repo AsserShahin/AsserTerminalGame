@@ -1,11 +1,14 @@
 # AsserBashGame
 This repository is only for linux and mac using bash
-# How to use it
-To use it open your terminal and go to my repo directory and then type
+# Installation
+To install it go to my releases tab and install the .deb but this is only for linux debian-based like ubuntu kali mint and other flavours and once you install it type in your terminal:
 ```
-chmod +x /.AsserTerminalGame
+sudo dpkg -i asserbashgame-1_0.deb
 ```
-Only once and then type
+And run it with asserbashgame and enjoy!
+# Source code
+If you have mac or linux non-debian like arch flavours and rpm you need bash installed and go to my repo source code directory and type this ONCE:
 ```
-/.AsserterminalGame
+chmod +x main.sh
 ```
+and then run ./main.sh to use it but GO TO MY REPO SOURCE CODE FOLDER EVERYTIME YOU WANT TO RUN! 
