@@ -3,7 +3,7 @@ This repository is only for linux and mac using bash
 # Installation
 To install it go to my releases tab and install the .deb but this is only for linux debian-based like ubuntu kali mint and other flavours and once you install it type in your terminal:
 ```
-sudo dpkg -i asserbashgame-1_0.deb
+sudo apt install ./asserbashgame-1_0.deb
 ```
 And run it with asserbashgame and enjoy!
 # Source code
